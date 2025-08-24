@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1d69c8e45b89f143852450cc81fb2df, type: 3}
+  m_Name: "D\u0130YALAOG \xD6RNEK"
+  m_EditorClassIdentifier: 
+  text: "ben fedo ba\u015Fgan\u0131 yalar\u0131m"
+  character: {fileID: 11400000, guid: 09c05337627ac7c4db0c2b26e7ab5716, type: 2}
+  choices:
+  - choiceText: "k\u0131\xE7\u0131ma tekme at"
+    nextNode: {fileID: 0}
+    stressChange: 10
+    relationshipChange: -10
+    gossipInfo: {fileID: 0}
+  - choiceText: deneme22222
+    nextNode: {fileID: 0}
+    stressChange: 100
+    relationshipChange: -50
+    gossipInfo: {fileID: 0}
+  - choiceText: denemedemene
+    nextNode: {fileID: 0}
+    stressChange: -20
+    relationshipChange: 50
+    gossipInfo: {fileID: 0}
+  isGossipReveal: 0
